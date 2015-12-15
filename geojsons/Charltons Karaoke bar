@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff5800",
+        "marker-size": "large",
+        "marker-symbol": "star",
+        "Name": "Charlton's Karaoke Bar",
+        "Location": "2/2 Coverlid Pl, Melbourne VIC 3000",
+        "Review": "Generate your new most embarrassing moments!",
+        "Contributor": "Stephin Vervoort"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.96847808361053,
+          -37.81208735719769
+        ]
+      }
+    }
+  ]
+}
